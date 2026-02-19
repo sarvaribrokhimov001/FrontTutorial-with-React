@@ -1,0 +1,41 @@
+.HTML__title {
+    text-align: center;
+    margin: 50px 0px;
+}
+
+.HTML__input {
+    display: block;
+    width: 500px;
+    height: 50px;
+    margin: auto;
+    padding: 0px 20px;
+    border-radius: 15px;
+    font-size: 20px;
+    color: red;
+    text-transform: capitalize;
+}
+
+.HTML__input:focus {
+    background-color: black;
+}
+
+.HTML__tags {
+    width: 1570px;
+    height: auto;
+    margin: 50px auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.tags {
+    font-size: 25px;
+}
+
+.tags__not__founded {
+    text-align: center;
+    color: red;
+    font-size: 30px;
+    margin: 50px auto;
+}

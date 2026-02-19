@@ -1,0 +1,12 @@
+.All__shorts ul {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    width: 1100px;
+    height: auto;
+    margin: 50px auto;
+}
+
+.shorts__item {
+    font-size: 30px;
+}
